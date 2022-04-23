@@ -1,5 +1,5 @@
 <p align="center">
-This repo is made for storing games which will be used in Xeon Bot Inc. projects. Thank you
+This repo is made for storing games which would be used in Xeon Bot Inc. projects. Thank you
 </p>
 
 # ```REPO INFO```
