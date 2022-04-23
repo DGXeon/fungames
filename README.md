@@ -19,5 +19,5 @@ This repo is made for storing games which will be used in Xeon Bot Inc. projects
 -------
 
 <p align="center">
-If you want to copy the codes please put my name as credit🦄
+If you wish to copy the codes you can but put my name as credit🦄
 </p>
